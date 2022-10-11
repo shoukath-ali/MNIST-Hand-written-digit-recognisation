@@ -1,2 +1,2 @@
-# MNIST-Hand-written-digit-Recognition
+# MNIST-Hand-written-digit-recognition
 Handwritten digit recognition using simple neural network, with  MNIST dataset
